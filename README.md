@@ -6,4 +6,4 @@
 
 1. [Chatbot](https://github.com/TevThom8/mini_python_projects/blob/main/mimopj1.py)
 
-<img src ="https://github.com/TevThom8/mini_python_projects/blob/main/Screenshot%202024-05-31%20165149.png" widith = "150" height = "150">
+<img src ="IMG_1110.jpeg" widith = "150" height = "150">
