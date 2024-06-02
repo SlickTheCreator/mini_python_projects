@@ -13,3 +13,5 @@ age_difference = age - bot_age
 print(f"You are {age_difference} years older than me. I'm only {bot_age} years old!")
 color = input("What's your favorite color?")
 print(f"Oh, {color} is a beautiful color!")
+
+
